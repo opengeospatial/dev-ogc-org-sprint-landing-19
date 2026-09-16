@@ -42,9 +42,9 @@
     },
     "devDependencies": {
         "autoprefixer": "10.2.6",
-        "browser-sync": "^3.0.4",
         "chokidar": "3.5.2",
         "concurrently": "6.2.0",
+        "livereload": "0.10.3",
         "postcss": "^8.5.28",
         "prettier": "2.3.2",
         "pug": "^3.0.4",
